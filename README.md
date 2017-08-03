@@ -1,4 +1,4 @@
-# Running a sinatra application on Docker
+# Test running a sinatra application on Docker
 
 This is sample project for running a sinatra application on Docker from within a Travis build.
 
